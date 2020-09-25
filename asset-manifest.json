@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/sba/static/css/main.a612d558.chunk.css",
-    "main.js": "/sba/static/js/main.c553e093.chunk.js",
-    "main.js.map": "/sba/static/js/main.c553e093.chunk.js.map",
-    "runtime-main.js": "/sba/static/js/runtime-main.9f6d7d08.js",
-    "runtime-main.js.map": "/sba/static/js/runtime-main.9f6d7d08.js.map",
-    "static/css/2.dd914f2f.chunk.css": "/sba/static/css/2.dd914f2f.chunk.css",
-    "static/js/2.85ffeca2.chunk.js": "/sba/static/js/2.85ffeca2.chunk.js",
-    "static/js/2.85ffeca2.chunk.js.map": "/sba/static/js/2.85ffeca2.chunk.js.map",
-    "index.html": "/sba/index.html",
-    "precache-manifest.f748176f5fa64792428ca642ea677c20.js": "/sba/precache-manifest.f748176f5fa64792428ca642ea677c20.js",
-    "service-worker.js": "/sba/service-worker.js",
-    "static/css/2.dd914f2f.chunk.css.map": "/sba/static/css/2.dd914f2f.chunk.css.map",
-    "static/css/main.a612d558.chunk.css.map": "/sba/static/css/main.a612d558.chunk.css.map",
-    "static/media/Maya-avatar.jpg": "/sba/static/media/Maya-avatar.45e6b951.jpg",
-    "static/media/mdb.css": "/sba/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/sba/static/media/fa-solid-900.c2801fb4.svg",
-    "static/media/logo.png": "/sba/static/media/logo.157fceb5.png"
+    "main.css": "./static/css/main.55118d10.chunk.css",
+    "main.js": "./static/js/main.ab20864b.chunk.js",
+    "main.js.map": "./static/js/main.ab20864b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3846ebd4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3846ebd4.js.map",
+    "static/css/2.09386c13.chunk.css": "./static/css/2.09386c13.chunk.css",
+    "static/js/2.758b39d9.chunk.js": "./static/js/2.758b39d9.chunk.js",
+    "static/js/2.758b39d9.chunk.js.map": "./static/js/2.758b39d9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ef88ad1efa16cb857212d27b44fb5d36.js": "./precache-manifest.ef88ad1efa16cb857212d27b44fb5d36.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.09386c13.chunk.css.map": "./static/css/2.09386c13.chunk.css.map",
+    "static/css/main.55118d10.chunk.css.map": "./static/css/main.55118d10.chunk.css.map",
+    "static/media/Maya-avatar.jpg": "./static/media/Maya-avatar.45e6b951.jpg",
+    "static/media/mdb.css": "./static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "./static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/logo.png": "./static/media/logo.157fceb5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f6d7d08.js",
-    "static/css/2.dd914f2f.chunk.css",
-    "static/js/2.85ffeca2.chunk.js",
-    "static/css/main.a612d558.chunk.css",
-    "static/js/main.c553e093.chunk.js"
+    "static/js/runtime-main.3846ebd4.js",
+    "static/css/2.09386c13.chunk.css",
+    "static/js/2.758b39d9.chunk.js",
+    "static/css/main.55118d10.chunk.css",
+    "static/js/main.ab20864b.chunk.js"
   ]
 }
